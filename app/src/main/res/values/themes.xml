@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AprenderEnglish" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#69318E</item>
+    </style>
+
+    <style name="Theme.AprenderEnglish" parent="Base.Theme.AprenderEnglish" />
+</resources>

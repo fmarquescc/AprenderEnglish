@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AprenderEnglish</string>
+    <string name="opsair">Sair</string>
+    <string name="opvoltar">Voltar ao Menu</string>
+    <string name="btnouvir">Reproduzir</string>
+    <string name="frutas">Frutas</string>
+    <string name="txtcor">Cores</string>
+    <string name="txtestacoes">Estações do Ano</string>
+    <string name="txtanimals">Animais</string>
+</resources>
